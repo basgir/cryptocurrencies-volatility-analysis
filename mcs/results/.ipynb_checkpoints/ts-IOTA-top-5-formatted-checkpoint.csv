@@ -1,0 +1,6 @@
+Rank,Model,p,Dist.,MCS p val
+1,ARCH,1,skewstudent,1.0
+2,ARCH,1,studentst,0.0
+3,ARCH,2,studentst,0.0
+4,ARCH,1,normal,0.0
+5,ARCH,2,skewstudent,0.0

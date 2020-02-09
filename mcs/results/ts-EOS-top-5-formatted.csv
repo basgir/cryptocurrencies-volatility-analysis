@@ -1,0 +1,6 @@
+Rank,Model,p,q,Dist.,MCS p val
+1,EGARCH,3,1,studentst,1.0
+2,EGARCH,3,1,skewstudent,0.03
+3,EGARCH,2,1,studentst,0.03
+4,EGARCH,3,3,skewstudent,0.03
+5,EGARCH,2,1,skewstudent,0.03

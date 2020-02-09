@@ -1,0 +1,6 @@
+,volatility_model,dist,p,q,AIC_score,BIC_score,LL_score
+55,EGARCH,studentst,1,1,-2162.19,-2138.64,1086.09
+67,EGARCH,studentst,2,2,-2161.63,-2128.66,1087.81
+76,EGARCH,studentst,3,2,-2160.29,-2122.62,1088.15
+56,EGARCH,skewstudent,1,1,-2160.21,-2131.96,1086.11
+64,EGARCH,studentst,2,1,-2160.2,-2131.94,1086.1

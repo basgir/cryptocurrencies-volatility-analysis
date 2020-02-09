@@ -1,0 +1,6 @@
+Rank,ANN Model,TS Model,Optimizer,Drop. Rate,p,q,Distribution,MCS p Values
+1,Model 5,Garch,rmsprop,0.5,1,1,Normal,1.0
+2,Model 5,Garch,rmsprop,0.4,1,1,Normal,0.07
+3,Model 3,Garch,sgd,0.4,1,1,Normal,0.07
+4,Model 5,Egarch,rmsprop,0.4,1,1,Skewstudent,0.07
+5,Model 5,Egarch,rmsprop,0.5,1,1,Skewstudent,0.0

@@ -1,0 +1,6 @@
+Rank,ANN Model,TS Model,Optimizer,Drop. Rate,p,q,Distribution,MCS p Values
+1, -,Egarch,-,-,3,1,Studentst,1.0
+2,Model 5,Egarch,rmsprop,0.4,1,1,Studentst,0.0
+3,Model 5,Egarch,rmsprop,0.5,1,1,Studentst,0.0
+4,Model 2,Egarch,rmsprop,0.4,1,1,Studentst,0.0
+5,Model 3,Egarch,sgd,0.4,1,1,Studentst,0.0
